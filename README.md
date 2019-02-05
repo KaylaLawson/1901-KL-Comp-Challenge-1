@@ -15,9 +15,12 @@ As I stated above, I have a lot of improvement to make on media queries and appl
 
 ### Full Page
 
+![screencapture-file-users-groot-desktop-mod1-1901-static-comp1-index-html-2019-02-05-13_51_15](https://user-images.githubusercontent.com/37053236/52303450-3c283780-294d-11e9-8494-702051bf5297.png)
 
 ### iPad 
 
+![screencapture-file-users-groot-desktop-mod1-1901-static-comp1-index-html-2019-02-05-13_52_23](https://user-images.githubusercontent.com/37053236/52303483-5b26c980-294d-11e9-86fe-462934a50109.png)
 
 ### Mobile 
 
+![screencapture-file-users-groot-desktop-mod1-1901-static-comp1-index-html-2019-02-05-13_53_14](https://user-images.githubusercontent.com/37053236/52303536-801b3c80-294d-11e9-87fd-bcfbfec1eb16.png)
