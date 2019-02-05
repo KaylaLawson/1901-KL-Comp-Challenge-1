@@ -6,7 +6,7 @@ I love puzzles so I went with that and came up with what you see.
 
 We were supposed to make the site responsive. I have added a few responsive elements to the page using Media Queries. 
 
-Its a very clunky adaptive layout with a not so decent mobile layout applied for and iPhone width of 320px. It gets really wonky from 330px in the header.
+Its a very clunky adaptive layout but all items are visible at all times from 320px up.
 
 I feel the static comp portion of the site met at least 90% of the requirements. The responsive aspect of the project, I feel met 60%. 
 
@@ -17,9 +17,11 @@ As I stated above, I have a lot of improvement to make on media queries and appl
 
 ![screencapture-file-users-groot-desktop-mod1-1901-static-comp1-index-html-2019-02-05-13_51_15](https://user-images.githubusercontent.com/37053236/52303450-3c283780-294d-11e9-8494-702051bf5297.png)
 
-### iPad 
+### iPad/Between Mobile and Desktop
 
 ![screencapture-file-users-groot-desktop-mod1-1901-static-comp1-index-html-2019-02-05-13_52_23](https://user-images.githubusercontent.com/37053236/52303483-5b26c980-294d-11e9-86fe-462934a50109.png)
+
+![screencapture-file-users-groot-desktop-mod1-1901-static-comp1-index-html-2019-02-05-13_55_29](https://user-images.githubusercontent.com/37053236/52303659-d1c3c700-294d-11e9-926f-4336449c9500.png)
 
 ### Mobile 
 
