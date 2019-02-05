@@ -2,19 +2,75 @@
 <html>
 <head>
   <title>Puzzle Club</title>
+  <link rel="stylesheet" type="text/css" href="normalize.css">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Proza+Libre:400,600,800" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 </head>
 <body>
   <header>
-    <ul>
-      <li>Share</li>
-      <li>About Us</li>
-      <li>Shop</li>
+    <ul class=" navigation-bar">
+      <li class="list"><i class="fas fa-share-alt nav-i"></i><a href="">SHARE</a></li>
+      <li class="list"><i class="fas fa-puzzle-piece nav-i"></i><a href="">ABOUT US</a></li>
+      <li class="list"><i class="fas fa-shopping-cart nav-i"></i><a href="">SHOP PUZZLES</a></li>
     </ul>
-    <section>
-      <h6>Administrative User</h6>
-      <img src="">
+    <section class="admin-logo">
+      <div class="admin-nav">
+        <i class="far fa-user admin-items"></i>
+        <h6 class="admin-items">Administrative User</h6>
+          <div class="arrow-down" alt="Something to say about what the arrow does.">
+           <i class="fas fa-sort-down admin-items"></i>
+          </div>
+      </div>
+      <img class="logo" src="images/frog-logo.png">
     </section>
   </header>
-
+  <h3>Shares</h3>
+  <main class="card-gallery">
+    <!-- <h3>Shares</h3> -->
+    <section class="card-1 cards">
+      <article class="h-1 headers">
+        <img class="next-icon" src="images/next.svg" alt="Icon Image for next display"> 
+          <div>
+            <p class="likes">Likes</br><strong class="number-of-likes">02</strong></p>
+          </div>
+      </article>
+      <article class="card-content card1">
+        <section class="card-header card-h-1">
+          <h6 class="card-title">Special Edition</h6>
+          <p class="day-date-time">Sunday 01/09/22 11:29AM</p>
+        </section>
+        <div class="link">
+          <a href="https://www.libertypuzzles.com/wooden-jigsaw-puzzles/bison">https://www.libertypuzzles.com</a>
+        </div>
+        <h5 class="artist">by Sue Coccia</h5>
+        <h4 class="puzzlename">Bison</h4>
+        <p class="purchased">Puchased</p>
+        <p class="number-of-purchased">04</p>
+      </article>
+    </section>
+    <section class="card-2 cards">
+      <article class="h-2 headers">
+        <img class="next-icon" src="images/next.svg" alt="Icon Image for next display"> 
+          <div>
+            <p class="likes">Likes</br><strong class="number-of-likes">02</strong></p>
+          </div>
+      </article>
+      <article class="card-content card1">
+        <section class="card-header card-h-2">
+          <h6 class="card-title">Special Edition</h6>
+          <p class="day-date-time">Sunday 01/09/22 11:29AM</p>
+        </section>
+        <div class="link">
+          <a href="https://www.libertypuzzles.com/wooden-jigsaw-puzzles/bison">https://www.libertypuzzles.com</a>
+        </div>
+        <h5 class="artist">by Sue Coccia</h5>
+        <h4 class="puzzlename">Bison</h4>
+        <p class="purchased">Puchased</p>
+        <p class="number-of-purchased">04</p>
+      </article>
+    </section>
+  </main>
 </body>
 </html>
